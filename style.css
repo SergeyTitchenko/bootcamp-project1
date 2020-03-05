@@ -1,0 +1,235 @@
+.back {
+    background-color: white;
+    width: 1000px;
+    height: 1000px;
+}
+.card {
+    background-color: blueviolet;
+    width: 400px;
+    height: 230px;
+    position: relative;
+    border-radius: 10px;
+}
+.visa {
+    width: 80px;
+    height: 35px;
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+}
+.number {
+    font-family: 'Oxanium', cursive;
+    color: white;
+    font-size: 28px;
+    position: absolute;
+    right: 23px;
+    bottom: 55px;
+    }
+.name {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    right: 180px;
+    bottom: 43px;
+}
+.date {
+    font-size: 13px;
+    color: white;
+    position: absolute;
+    bottom: 23px;
+    left: 20px;
+}
+.date1 {
+    color: white;
+    font-size: 23px;
+    position: absolute;
+    left: 20px;
+    top: 170px;
+}
+.cheap {
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    }
+
+.card2 {
+    background-color: rgb(19, 198, 156);
+    width: 400px;
+    height: 230px;
+    position: relative;
+    border-radius: 10px;
+}
+.visa2 {
+    width: 80px;
+    height: 35px;
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+}
+.number2 {
+    font-family: 'Oxanium', cursive;
+    color: white;
+    font-size: 28px;
+    position: absolute;
+    right: 23px;
+    bottom: 55px;
+    }
+.name2 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    right: 180px;
+    bottom: 43px;
+}
+.date2 {
+    font-size: 13px;
+    color: white;
+    position: absolute;
+    bottom: 23px;
+    left: 20px;
+}
+.datee1 {
+    color: white;
+    font-size: 23px;
+    position: absolute;
+    left: 20px;
+    top: 170px;
+}
+.cheap2 {
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    }
+.roketbank {
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    right: 12px;
+    top: 10px;
+}
+
+.card3 {
+    background-color: rgb(42, 47, 46);
+    width: 400px;
+    height: 230px;
+    position: relative;
+    border-radius: 10px;
+}
+.visa3 {
+    width: 80px;
+    height: 35px;
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+}
+.number3 {
+    font-family: 'Oxanium', cursive;
+    color: white;
+    font-size: 28px;
+    position: absolute;
+    right: 23px;
+    bottom: 55px;
+    }
+.name3 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    right: 180px;
+    bottom: 43px;
+}
+.date3 {
+    font-size: 13px;
+    color: white;
+    position: absolute;
+    bottom: 23px;
+    left: 20px;
+}
+.dateee1 {
+    color: white;
+    font-size: 23px;
+    position: absolute;
+    left: 20px;
+    top: 170px;
+}
+.cheap3 {
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    }
+.sber {
+    width: 130px;
+    height: 50px;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+
+.card4 {
+    background-color: rgb(73, 36, 132);
+    width: 400px;
+    height: 230px;
+    position: relative;
+    border-radius: 10px;
+}
+.visa4 {
+    width: 80px;
+    height: 35px;
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+}
+.number4 {
+    font-family: 'Oxanium', cursive;
+    color: white;
+    font-size: 28px;
+    position: absolute;
+    right: 23px;
+    bottom: 55px;
+    }
+.name4 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    right: 180px;
+    bottom: 43px;
+}
+.date4 {
+    font-size: 13px;
+    color: white;
+    position: absolute;
+    bottom: 23px;
+    left: 20px;
+}
+.dateeee1 {
+    color: white;
+    font-size: 23px;
+    position: absolute;
+    left: 20px;
+    top: 170px;
+}
+.cheap4 {
+    width: 80px;
+    height: 70px;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    }
+
+.tinkoff {
+    font-family: 'Oxanium', cursive;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    bottom:160px;
+    right: 20px;
+}
